@@ -35,14 +35,14 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- CSS Grid
+- CSS Flex
 - Sass
 - JavaScript
-
-### What I learned
-
-It was a nice way to practise using JavaScript for toggling between classes and using media queries for responsive design.
+- npm
+- MVC Architecture
+- Babel
+- Parcel
 
 ## Author
 
