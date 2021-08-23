@@ -12,8 +12,6 @@
 
 Food recipe app with option to create your own recipe and save bookmarks. The data for the recipes are from the forkify api (https://forkify-api.herokuapp.com/)
 
-### The challenge
-
 Users should be able to:
 
 - Search for food recipes
@@ -28,6 +26,7 @@ Users should be able to:
 
 ### Links
 
+- GitHub URL: https://github.com/Nesh00/forkify-app
 - Live Site URL: https://forkify-app-nenad.netlify.app/#5ed6604591c37cdc054bcd09
 
 ## My process
@@ -46,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - https://forkify-app-nenad.netlify.app/#5ed6604591c37cdc054bcd09
+- LinkedIn - https://www.linkedin.com/in/nenad-tsvetanovski-3101b474/
 - Twitter - https://twitter.com/nenad37452460
